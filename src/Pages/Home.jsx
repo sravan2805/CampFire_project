@@ -1,6 +1,7 @@
 import React from 'react'
 import Navbar from '../Components/Navbar/Navbar'
 import Homepage from '../Components/Homepage/Homepage'
+import Homepage2 from '../Components/Homepage2/Homepage2'
 import Aboutus from '../Components/About/Aboutus'
 import Specialdish from '../Components/Specialdish/Specialdish'
 import Delicious_menu from '../Components/Delicious_menu/Delicious_menu'
@@ -14,6 +15,7 @@ const Home = () => {
     <div>
       <Navbar/>
       <Homepage/>
+      <Homepage2/>
       <Aboutus/>
       <Specialdish/>
       <Delicious_menu/>

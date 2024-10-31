@@ -1,9 +1,9 @@
 import four_am_biryani from './four_am_biryani.jpg'
 import About_us_image from './About_us_image.jpg'
 import Biryani_non_veg_img1 from './Biryani_non_veg_img1.png'
-import Biryani_non_veg_img2 from './Biryani_non_veg_img2.png'
-import Biryani_non_veg_img3 from './Biryani_non_veg_img3.png'
-import Biryani_non_veg_img4 from './Biryani_non_veg_img4.png'
+import Biryani_non_veg_img2 from './Biryani_non_veg_img2.jpg'
+import Biryani_non_veg_img3 from './Biryani_non_veg_img3.jpg'
+import Biryani_non_veg_img4 from './Biryani_non_veg_img4.jpg'
 import Biryani_non_veg_img5 from './Biryani_non_veg_img5.png'
 import Biryani_non_veg_img6 from './Biryani_non_veg_img6.png'
 import Biryani_non_veg_img7 from './Biryani_non_veg_img7.png'
@@ -19,9 +19,8 @@ import Biryani_veg_img2 from './Biryani_veg_img2.png'
 import Biryani_veg_img3 from './Biryani_veg_img3.png'
 import Biryani_veg_img4 from './Biryani_veg_img4.png'
 import Biryani_veg_img5 from './Biryani_veg_img5.png'
-import Biryani_veg from './Biryani_veg_img5.png'
 import Campfire_logo_final from './Campfire_logo_final.png'
-import Delicious_menu_biriyani from './Delicious_menu_biriyani.jpg'
+import Delicious_menu_biriyani from './Delicious_menu_Biryani.jpg'
 import Delicious_menu_soup from './Delicious_menu_soup.jpg'
 import Delicious_menu_tandoori from './Delicious_menu_tandoori.jpg'
 import Friedrice_non_veg_img1 from './Friedrice_non_veg_img1.png'
@@ -57,6 +56,16 @@ import Soups_veg_img1 from './Soups_veg_img1.jpg'
 import Soups_veg_img2 from './Soups_veg_img2.jpg'
 import star from './star.png'
 import Web_plus_academy_logo from './Web_plus_academy_logo.jpg'
+
+export const assets = {
+    Hero_image,
+    Homepage_2,
+    About_us_image,
+    map,
+    star,
+    Web_plus_academy_logo
+};
+
 
 
 export const MenuData=[
